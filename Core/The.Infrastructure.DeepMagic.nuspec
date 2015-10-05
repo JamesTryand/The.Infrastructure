@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>The.Infrastructure.DeepMagic</id>
+		<version>0.0.1</version>
+		<authors>James Tryand, Greg Young</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+		<tags>simpleinfrastructure</tags>
+	</metadata>
+	<files>
+		<file src="The.Infrastructure.DeepMagic.cs" target="content\Infrastructure\The.Infrastructure.DeepMagic.Generated.cs" />
+	</files>
+</package>

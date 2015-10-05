@@ -7,11 +7,9 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 		<tags>simpleinfrastructure</tags>
-		<dependencies>
-			<dependency id="The.Infrastructure.DeepMagic" version="0.0.1" />
-		</dependencies>
 	</metadata>
 	<files>
 		<file src="The.Infrastructure.Core.cs" target="content\Infrastructure\The.Infrastructure.Core.Generated.cs" />
+		<file src="The.Infrastructure.DeepMagic.cs" target="content\Infrastructure\The.Infrastructure.DeepMagic.Generated.cs" />
 	</files>
 </package>
