@@ -1,0 +1,3 @@
+{
+	"projects" : ["Core","EventStore.GES","Testing"]
+}
