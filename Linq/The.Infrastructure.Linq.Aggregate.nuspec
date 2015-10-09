@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>The.Infrastructure.EventStore.GES</id>
+		<id>The.Infrastructure.Linq.Aggregate</id>
 		<version>0.0.1</version>
 		<authors>James Tryand</authors>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -12,6 +12,6 @@
 		</dependencies>
 	</metadata>
 	<files>
-		<file src="The.Infrastructure.Statemonad.cs" target="content\Infrastructure\The.Infrastructure.Statemonad.Generated.cs" />
+		<file src="The.Infrastructure.Linq.Aggregate.cs" target="content\Infrastructure\The.Infrastructure.Linq.Aggregate.Generated.cs" />
 	</files>
 </package>
