@@ -12,7 +12,7 @@ namespace Infrastructure {
 		}
 		
         public T GetById(Guid id) {
-			return GetById(id, )
+			return GetById(id, int.MaxValue);
 		}
 		
 		public T GetById(Guid id, int version) {

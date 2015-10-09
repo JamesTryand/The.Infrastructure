@@ -12,7 +12,6 @@
   "commands": {
     "run": "run"
   },
-
   "frameworks" : {
     "dnx451": { },
     "dnxcore50" : {
