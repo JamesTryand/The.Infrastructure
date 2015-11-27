@@ -12,6 +12,9 @@ namespace Infrastructure {
 		}
 		
         public T GetById(Guid id) {
+			// if(version <= 0)
+			// 	throw new InvalidOper
+			
 			return GetById(id, int.MaxValue);
 		}
 		
